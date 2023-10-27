@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\bin\Debug\Kütüphane Veritabanı.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\bin\Debug\Kütüphane Veritabanı.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\bin\Debug\Kütüphane Veritabanı.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane Veritabanı.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane Veritabanı.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane_Veritabanı.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane_Veritabanı.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane Veritabanı.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane Veritabanı.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane Veritabanı.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kütüphane Veritabanı\Kütüphane Veritabanı\obj\Debug\Kütüphane Veritabanı.pdb
